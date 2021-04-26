@@ -2,3 +2,4 @@ Cat
 newCat
 Flufy
 Pesho
+Stamat
